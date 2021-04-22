@@ -1,0 +1,39 @@
+Date : 2021-04-16 18:30:37
+Directory : c:\Users\odinh\pitch-it\Frontend\mutations
+Total : 15 files,  79 codes, 0 comments, 77 blanks, all 156 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         15 |         79 |          0 |         77 |        156 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                   | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                      |         15 |         79 |          0 |         77 |        156 |
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                               | language   | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\odinh\pitch-it\Frontend\mutations\CREATE_COMMENT_MUTATION.js                  | JavaScript |          5 |          0 |          5 |         10 |
+| c:\Users\odinh\pitch-it\Frontend\mutations\CREATE_FOLLOWING_MUTATION.js                | JavaScript |          5 |          0 |          5 |         10 |
+| c:\Users\odinh\pitch-it\Frontend\mutations\CREATE_LIKE_MUTATION.js                     | JavaScript |          5 |          0 |          9 |         14 |
+| c:\Users\odinh\pitch-it\Frontend\mutations\CREATE_POST_FORUM_MUTATION.js               | JavaScript |          5 |          0 |          5 |         10 |
+| c:\Users\odinh\pitch-it\Frontend\mutations\CREATE_POST_MUTATION.js                     | JavaScript |          5 |          0 |          5 |         10 |
+| c:\Users\odinh\pitch-it\Frontend\mutations\CREATE_TOKEN_WITH_REFRESH_TOKEN_MUTATION.js | JavaScript |          6 |          0 |          5 |         11 |
+| c:\Users\odinh\pitch-it\Frontend\mutations\DELETE_FOLLOWING_MUTATION.js                | JavaScript |          5 |          0 |          5 |         10 |
+| c:\Users\odinh\pitch-it\Frontend\mutations\DELETE_LIKE_MUTATION.js                     | JavaScript |          5 |          0 |          4 |          9 |
+| c:\Users\odinh\pitch-it\Frontend\mutations\REGISTER_USER_MUTATION.js                   | JavaScript |          6 |          0 |          5 |         11 |
+| c:\Users\odinh\pitch-it\Frontend\mutations\TOKEN_AUTH_MUTATION.js                      | JavaScript |          6 |          0 |          5 |         11 |
+| c:\Users\odinh\pitch-it\Frontend\mutations\UPDATE_BIO_MUTATION.js                      | JavaScript |          5 |          0 |          5 |         10 |
+| c:\Users\odinh\pitch-it\Frontend\mutations\UPDATE_FIRST_AND_LASTNAME_MUTATION.js       | JavaScript |          5 |          0 |          5 |         10 |
+| c:\Users\odinh\pitch-it\Frontend\mutations\UPDATE_LOCATION_MUTATION.js                 | JavaScript |          5 |          0 |          4 |          9 |
+| c:\Users\odinh\pitch-it\Frontend\mutations\UPDATE_PROFILEPICTURE_MUTATION.js           | JavaScript |          5 |          0 |          5 |         10 |
+| c:\Users\odinh\pitch-it\Frontend\mutations\VERIFY_TOKEN_MUTATION.js                    | JavaScript |          6 |          0 |          5 |         11 |
+| Total                                                                                  |            |         79 |          0 |         77 |        156 |
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

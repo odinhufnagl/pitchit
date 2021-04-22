@@ -1,0 +1,151 @@
+Date : 2021-04-03 19:19:06
+Directory : c:\Users\odinh\pitch-it\Frontend\screens
+Total : 78 files,  2487 codes, 3 comments, 1522 blanks, all 4012 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         78 |      2,487 |          3 |      1,522 |      4,012 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                    | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                       |         78 |      2,487 |          3 |      1,522 |      4,012 |
+| FeedScreen                                                                                                              |         26 |        850 |          2 |        593 |      1,445 |
+| FeedScreen\CommentsScreen                                                                                               |          8 |        195 |          1 |        123 |        319 |
+| FeedScreen\CommentsScreen\components                                                                                    |          7 |        184 |          1 |        112 |        297 |
+| FeedScreen\CommentsScreen\components\Comment                                                                            |          1 |         16 |          0 |         10 |         26 |
+| FeedScreen\CommentsScreen\components\Header                                                                             |          2 |         40 |          0 |         28 |         68 |
+| FeedScreen\CommentsScreen\components\ListOfComments                                                                     |          4 |        128 |          1 |         74 |        203 |
+| FeedScreen\CommentsScreen\components\ListOfComments\TextInputBottom                                                     |          2 |         51 |          0 |         28 |         79 |
+| FeedScreen\CreatePostScreen                                                                                             |          5 |        140 |          0 |        103 |        243 |
+| FeedScreen\CreatePostScreen\components                                                                                  |          4 |        125 |          0 |         86 |        211 |
+| FeedScreen\CreatePostScreen\components\Header                                                                           |          2 |         39 |          0 |         29 |         68 |
+| FeedScreen\CreatePostScreen\components\UploadContent                                                                    |          2 |         86 |          0 |         57 |        143 |
+| FeedScreen\components                                                                                                   |         11 |        435 |          1 |        321 |        757 |
+| FeedScreen\components\Feed                                                                                              |          2 |        108 |          0 |         70 |        178 |
+| FeedScreen\components\Post                                                                                              |          7 |        281 |          1 |        215 |        497 |
+| FeedScreen\components\Post\Footer                                                                                       |          2 |        136 |          1 |         84 |        221 |
+| FeedScreen\components\Post\Header                                                                                       |          2 |         56 |          0 |         55 |        111 |
+| FeedScreen\components\UpperFilter                                                                                       |          2 |         46 |          0 |         36 |         82 |
+| ForumScreen                                                                                                             |         14 |        309 |          0 |        217 |        526 |
+| ForumScreen\components                                                                                                  |         12 |        252 |          0 |        188 |        440 |
+| ForumScreen\components\Feed                                                                                             |          2 |         23 |          0 |         10 |         33 |
+| ForumScreen\components\Thread                                                                                           |          8 |        184 |          0 |        142 |        326 |
+| ForumScreen\components\Thread\Body                                                                                      |          2 |         43 |          0 |         37 |         80 |
+| ForumScreen\components\Thread\Footer                                                                                    |          2 |         45 |          0 |         29 |         74 |
+| ForumScreen\components\Thread\Header                                                                                    |          2 |         56 |          0 |         52 |        108 |
+| ForumScreen\components\UpperFilter                                                                                      |          2 |         45 |          0 |         36 |         81 |
+| LoginScreen                                                                                                             |          4 |        108 |          0 |         41 |        149 |
+| LoginScreen\components                                                                                                  |          2 |         24 |          0 |         11 |         35 |
+| LoginScreen\components\Button                                                                                           |          2 |         24 |          0 |         11 |         35 |
+| ProfileScreen                                                                                                           |         10 |        487 |          0 |        279 |        766 |
+| ProfileScreen\FloatingContainer                                                                                         |          8 |        357 |          0 |        205 |        562 |
+| ProfileScreen\FloatingContainer\components                                                                              |          6 |        317 |          0 |        183 |        500 |
+| ProfileScreen\FloatingContainer\components\ProfileInformation                                                           |          6 |        317 |          0 |        183 |        500 |
+| ProfileScreen\FloatingContainer\components\ProfileInformation\Footer                                                    |          2 |        181 |          0 |        100 |        281 |
+| ProfileScreen\FloatingContainer\components\ProfileInformation\Header                                                    |          2 |        113 |          0 |         67 |        180 |
+| SearchScreen                                                                                                            |          8 |        197 |          0 |        124 |        321 |
+| SearchScreen\components                                                                                                 |          6 |        123 |          0 |         83 |        206 |
+| SearchScreen\components\SearchBox                                                                                       |          2 |         32 |          0 |         20 |         52 |
+| SearchScreen\components\Users                                                                                           |          4 |         91 |          0 |         63 |        154 |
+| SearchScreen\components\Users\UserItem                                                                                  |          2 |         62 |          0 |         42 |        104 |
+| SigninScreen                                                                                                            |          4 |        109 |          0 |         34 |        143 |
+| SigninScreen\components                                                                                                 |          2 |         24 |          0 |         12 |         36 |
+| SigninScreen\components\Button                                                                                          |          2 |         24 |          0 |         12 |         36 |
+| StartScreen                                                                                                             |         12 |        427 |          1 |        234 |        662 |
+| StartScreen\components                                                                                                  |         10 |        334 |          1 |        182 |        517 |
+| StartScreen\components\CreatorsList                                                                                     |          4 |        111 |          0 |         49 |        160 |
+| StartScreen\components\CreatorsList\CreatorsView                                                                        |          2 |         49 |          0 |         31 |         80 |
+| StartScreen\components\FeedOrForum                                                                                      |          2 |         50 |          0 |         47 |         97 |
+| StartScreen\components\ListTopPictures                                                                                  |          4 |        173 |          1 |         86 |        260 |
+| StartScreen\components\ListTopPictures\Picture                                                                          |          2 |         88 |          0 |         43 |        131 |
++-------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                                | language   | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\CommentsScreen\components\Comment\index.js                          | JavaScript |         16 |          0 |         10 |         26 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\CommentsScreen\components\Header\index.js                           | JavaScript |         17 |          0 |         10 |         27 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\CommentsScreen\components\Header\styles.js                          | JavaScript |         23 |          0 |         18 |         41 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\CommentsScreen\components\ListOfComments\TextInputBottom\index.js   | JavaScript |         31 |          0 |         16 |         47 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\CommentsScreen\components\ListOfComments\TextInputBottom\styles.js  | JavaScript |         20 |          0 |         12 |         32 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\CommentsScreen\components\ListOfComments\index.js                   | JavaScript |         38 |          1 |         26 |         65 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\CommentsScreen\components\ListOfComments\styles.js                  | JavaScript |         39 |          0 |         20 |         59 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\CommentsScreen\index.js                                             | JavaScript |         11 |          0 |         11 |         22 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\CreatePostScreen\components\Header\index.js                         | JavaScript |         17 |          0 |         10 |         27 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\CreatePostScreen\components\Header\styles.js                        | JavaScript |         22 |          0 |         19 |         41 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\CreatePostScreen\components\UploadContent\index.js                  | JavaScript |         60 |          0 |         44 |        104 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\CreatePostScreen\components\UploadContent\styles.js                 | JavaScript |         26 |          0 |         13 |         39 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\CreatePostScreen\index.js                                           | JavaScript |         15 |          0 |         17 |         32 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\components\Feed\index.js                                            | JavaScript |         78 |          0 |         60 |        138 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\components\Feed\styles.js                                           | JavaScript |         30 |          0 |         10 |         40 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\components\Post\Footer\index.js                                     | JavaScript |         84 |          1 |         55 |        140 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\components\Post\Footer\styles.js                                    | JavaScript |         52 |          0 |         29 |         81 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\components\Post\Header\index.js                                     | JavaScript |         26 |          0 |         30 |         56 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\components\Post\Header\styles.js                                    | JavaScript |         30 |          0 |         25 |         55 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\components\Post\index.js                                            | JavaScript |         75 |          0 |         64 |        139 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\components\Post\styles.js                                           | JavaScript |         14 |          0 |         11 |         25 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\components\Post\tempCodeRunnerFile.js                               | JavaScript |          0 |          0 |          1 |          1 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\components\UpperFilter\index.js                                     | JavaScript |         19 |          0 |         16 |         35 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\components\UpperFilter\styles.js                                    | JavaScript |         27 |          0 |         20 |         47 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\index.js                                                            | JavaScript |         60 |          0 |         33 |         93 |
+| c:\Users\odinh\pitch-it\Frontend\screens\FeedScreen\styles.js                                                           | JavaScript |         20 |          0 |         13 |         33 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ForumScreen\components\Feed\index.js                                           | JavaScript |         23 |          0 |          9 |         32 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ForumScreen\components\Feed\styles.js                                          | JavaScript |          0 |          0 |          1 |          1 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ForumScreen\components\Thread\Body\index.js                                    | JavaScript |         14 |          0 |         22 |         36 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ForumScreen\components\Thread\Body\styles.js                                   | JavaScript |         29 |          0 |         15 |         44 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ForumScreen\components\Thread\Footer\index.js                                  | JavaScript |         19 |          0 |         17 |         36 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ForumScreen\components\Thread\Footer\styles.js                                 | JavaScript |         26 |          0 |         12 |         38 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ForumScreen\components\Thread\Header\index.js                                  | JavaScript |         19 |          0 |         27 |         46 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ForumScreen\components\Thread\Header\styles.js                                 | JavaScript |         37 |          0 |         25 |         62 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ForumScreen\components\Thread\index.js                                         | JavaScript |         24 |          0 |         14 |         38 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ForumScreen\components\Thread\styles.js                                        | JavaScript |         16 |          0 |         10 |         26 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ForumScreen\components\UpperFilter\index.js                                    | JavaScript |         19 |          0 |         16 |         35 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ForumScreen\components\UpperFilter\styles.js                                   | JavaScript |         26 |          0 |         20 |         46 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ForumScreen\index.js                                                           | JavaScript |         29 |          0 |         18 |         47 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ForumScreen\styles.js                                                          | JavaScript |         28 |          0 |         11 |         39 |
+| c:\Users\odinh\pitch-it\Frontend\screens\LoginScreen\components\Button\index.js                                         | JavaScript |         11 |          0 |          5 |         16 |
+| c:\Users\odinh\pitch-it\Frontend\screens\LoginScreen\components\Button\styles.js                                        | JavaScript |         13 |          0 |          6 |         19 |
+| c:\Users\odinh\pitch-it\Frontend\screens\LoginScreen\index.js                                                           | JavaScript |         63 |          0 |         23 |         86 |
+| c:\Users\odinh\pitch-it\Frontend\screens\LoginScreen\styles.js                                                          | JavaScript |         21 |          0 |          7 |         28 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ProfileScreen\FloatingContainer\components\ProfileInformation\Footer\index.js  | JavaScript |        111 |          0 |         56 |        167 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ProfileScreen\FloatingContainer\components\ProfileInformation\Footer\styles.js | JavaScript |         70 |          0 |         44 |        114 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ProfileScreen\FloatingContainer\components\ProfileInformation\Header\index.js  | JavaScript |         51 |          0 |         28 |         79 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ProfileScreen\FloatingContainer\components\ProfileInformation\Header\styles.js | JavaScript |         62 |          0 |         39 |        101 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ProfileScreen\FloatingContainer\components\ProfileInformation\index.js         | JavaScript |         23 |          0 |         15 |         38 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ProfileScreen\FloatingContainer\components\ProfileInformation\styles.js        | JavaScript |          0 |          0 |          1 |          1 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ProfileScreen\FloatingContainer\index.js                                       | JavaScript |         40 |          0 |         21 |         61 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ProfileScreen\FloatingContainer\styles.js                                      | JavaScript |          0 |          0 |          1 |          1 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ProfileScreen\index.js                                                         | JavaScript |         88 |          0 |         56 |        144 |
+| c:\Users\odinh\pitch-it\Frontend\screens\ProfileScreen\styles.js                                                        | JavaScript |         42 |          0 |         18 |         60 |
+| c:\Users\odinh\pitch-it\Frontend\screens\SearchScreen\components\SearchBox\index.js                                     | JavaScript |         15 |          0 |          9 |         24 |
+| c:\Users\odinh\pitch-it\Frontend\screens\SearchScreen\components\SearchBox\styles.js                                    | JavaScript |         17 |          0 |         11 |         28 |
+| c:\Users\odinh\pitch-it\Frontend\screens\SearchScreen\components\Users\UserItem\index.js                                | JavaScript |         23 |          0 |         16 |         39 |
+| c:\Users\odinh\pitch-it\Frontend\screens\SearchScreen\components\Users\UserItem\styles.js                               | JavaScript |         39 |          0 |         26 |         65 |
+| c:\Users\odinh\pitch-it\Frontend\screens\SearchScreen\components\Users\index.js                                         | JavaScript |         29 |          0 |         20 |         49 |
+| c:\Users\odinh\pitch-it\Frontend\screens\SearchScreen\components\Users\styles.js                                        | JavaScript |          0 |          0 |          1 |          1 |
+| c:\Users\odinh\pitch-it\Frontend\screens\SearchScreen\index.js                                                          | JavaScript |         52 |          0 |         30 |         82 |
+| c:\Users\odinh\pitch-it\Frontend\screens\SearchScreen\styles.js                                                         | JavaScript |         22 |          0 |         11 |         33 |
+| c:\Users\odinh\pitch-it\Frontend\screens\SigninScreen\components\Button\index.js                                        | JavaScript |         11 |          0 |          6 |         17 |
+| c:\Users\odinh\pitch-it\Frontend\screens\SigninScreen\components\Button\styles.js                                       | JavaScript |         13 |          0 |          6 |         19 |
+| c:\Users\odinh\pitch-it\Frontend\screens\SigninScreen\index.js                                                          | JavaScript |         64 |          0 |         18 |         82 |
+| c:\Users\odinh\pitch-it\Frontend\screens\SigninScreen\styles.js                                                         | JavaScript |         21 |          0 |          4 |         25 |
+| c:\Users\odinh\pitch-it\Frontend\screens\StartScreen\components\CreatorsList\CreatorsView\index.js                      | JavaScript |         17 |          0 |         17 |         34 |
+| c:\Users\odinh\pitch-it\Frontend\screens\StartScreen\components\CreatorsList\CreatorsView\styles.js                     | JavaScript |         32 |          0 |         14 |         46 |
+| c:\Users\odinh\pitch-it\Frontend\screens\StartScreen\components\CreatorsList\index.js                                   | JavaScript |         33 |          0 |          6 |         39 |
+| c:\Users\odinh\pitch-it\Frontend\screens\StartScreen\components\CreatorsList\styles.js                                  | JavaScript |         29 |          0 |         12 |         41 |
+| c:\Users\odinh\pitch-it\Frontend\screens\StartScreen\components\FeedOrForum\index.js                                    | JavaScript |         42 |          0 |         33 |         75 |
+| c:\Users\odinh\pitch-it\Frontend\screens\StartScreen\components\FeedOrForum\styles.js                                   | JavaScript |          8 |          0 |         14 |         22 |
+| c:\Users\odinh\pitch-it\Frontend\screens\StartScreen\components\ListTopPictures\Picture\index.js                        | JavaScript |         35 |          0 |          9 |         44 |
+| c:\Users\odinh\pitch-it\Frontend\screens\StartScreen\components\ListTopPictures\Picture\styles.js                       | JavaScript |         53 |          0 |         34 |         87 |
+| c:\Users\odinh\pitch-it\Frontend\screens\StartScreen\components\ListTopPictures\index.js                                | JavaScript |         60 |          1 |         32 |         93 |
+| c:\Users\odinh\pitch-it\Frontend\screens\StartScreen\components\ListTopPictures\styles.js                               | JavaScript |         25 |          0 |         11 |         36 |
+| c:\Users\odinh\pitch-it\Frontend\screens\StartScreen\index.js                                                           | JavaScript |         71 |          0 |         41 |        112 |
+| c:\Users\odinh\pitch-it\Frontend\screens\StartScreen\styles.js                                                          | JavaScript |         22 |          0 |         11 |         33 |
+| Total                                                                                                                   |            |      2,487 |          3 |      1,522 |      4,012 |
++-------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

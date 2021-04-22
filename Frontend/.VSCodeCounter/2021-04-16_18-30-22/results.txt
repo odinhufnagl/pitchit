@@ -1,0 +1,34 @@
+Date : 2021-04-16 18:30:22
+Directory : c:\Users\odinh\pitch-it\Frontend\NavScreens
+Total : 5 files,  256 codes, 0 comments, 192 blanks, all 448 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |          5 |        256 |          0 |        192 |        448 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                      | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                         |          5 |        256 |          0 |        192 |        448 |
+| AuthNavigator                                                             |          1 |         84 |          0 |         58 |        142 |
+| BottomTabNavigator                                                        |          1 |         53 |          0 |         40 |         93 |
+| Home                                                                      |          1 |         34 |          0 |         29 |         63 |
+| LogInSignInNavigator                                                      |          1 |         24 |          0 |         24 |         48 |
+| OuterNavigator                                                            |          1 |         61 |          0 |         41 |        102 |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                  | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\odinh\pitch-it\Frontend\NavScreens\AuthNavigator\index.js        | JavaScript |         84 |          0 |         58 |        142 |
+| c:\Users\odinh\pitch-it\Frontend\NavScreens\BottomTabNavigator\index.js   | JavaScript |         53 |          0 |         40 |         93 |
+| c:\Users\odinh\pitch-it\Frontend\NavScreens\Home\index.js                 | JavaScript |         34 |          0 |         29 |         63 |
+| c:\Users\odinh\pitch-it\Frontend\NavScreens\LogInSignInNavigator\index.js | JavaScript |         24 |          0 |         24 |         48 |
+| c:\Users\odinh\pitch-it\Frontend\NavScreens\OuterNavigator\index.js       | JavaScript |         61 |          0 |         41 |        102 |
+| Total                                                                     |            |        256 |          0 |        192 |        448 |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
